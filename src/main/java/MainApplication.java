@@ -8,7 +8,6 @@ public class MainApplication {
         List.of("a", "ab", "a", "abc", "ab", "abcd", "abc")
                 .stream()
                 .distinct()
-                .map(x -> x + " ")
                 .forEach(System.out::println);
         System.out.println("---------------------------");
         // Найдите в списке целых чисел 3-е наибольшее число (пример: 5 2 10 64 9 4 3 22 1 13 => 13)
