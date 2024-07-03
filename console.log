@@ -1,0 +1,316 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA 2022.2\jbr\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2\lib\idea_rt.jar=59653:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2\bin" -Dfile.encoding=UTF-8 -classpath C:\java\projects\java-pro\work3\target\classes pro.java.MainApplication
+Thread-0
+Thread-1
+Thread-2
+Thread-3
+Thread-4
+Thread-5
+Thread-6
+Thread-7
+Thread-8
+Thread-9
+	Thread-7 -> tasks to execute 16
+	Thread-3 -> tasks to execute 15
+	Thread-5 -> tasks to execute 15
+	Thread-9 -> tasks to execute 16
+	Thread-1 -> tasks to execute 15
+		Thread-7 -> execute task
+			Executing task 1
+		Thread-1 -> execute task
+			Executing task 2
+		Thread-9 -> execute task
+			Executing task 3
+		Thread-5 -> execute task
+			Executing task 4
+		Thread-3 -> execute task
+			Executing task 5
+	Thread-0 -> tasks to execute 25
+		Thread-0 -> execute task
+			Executing task 6
+	Thread-2 -> tasks to execute 24
+		Thread-2 -> execute task
+			Executing task 7
+	Thread-6 -> tasks to execute 24
+	Thread-4 -> tasks to execute 24
+		Thread-6 -> execute task
+			Executing task 8
+		Thread-4 -> execute task
+			Executing task 9
+	Thread-8 -> tasks to execute 22
+		Thread-8 -> execute task
+			Executing task 10
+	Thread-7 -> tasks to execute 39
+		Thread-7 -> execute task
+			Executing task 11
+	Thread-9 -> tasks to execute 38
+	Thread-5 -> tasks to execute 38
+	Thread-1 -> tasks to execute 38
+	Thread-3 -> tasks to execute 38
+		Thread-9 -> execute task
+			Executing task 12
+		Thread-3 -> execute task
+			Executing task 13
+		Thread-1 -> execute task
+			Executing task 14
+		Thread-5 -> execute task
+			Executing task 15
+	Thread-0 -> tasks to execute 47
+		Thread-0 -> execute task
+			Executing task 16
+	Thread-2 -> tasks to execute 46
+		Thread-2 -> execute task
+			Executing task 17
+	Thread-4 -> tasks to execute 45
+		Thread-4 -> execute task
+	Thread-6 -> tasks to execute 45
+			Executing task 18
+		Thread-6 -> execute task
+			Executing task 19
+	Thread-8 -> tasks to execute 44
+		Thread-8 -> execute task
+			Executing task 20
+	Thread-7 -> tasks to execute 60
+		Thread-7 -> execute task
+			Executing task 21
+	Thread-9 -> tasks to execute 59
+	Thread-1 -> tasks to execute 59
+	Thread-3 -> tasks to execute 59
+	Thread-5 -> tasks to execute 59
+		Thread-9 -> execute task
+			Executing task 22
+		Thread-5 -> execute task
+			Executing task 23
+		Thread-3 -> execute task
+			Executing task 24
+		Thread-1 -> execute task
+			Executing task 25
+	Thread-0 -> tasks to execute 69
+	Thread-2 -> tasks to execute 69
+		Thread-0 -> execute task
+			Executing task 26
+		Thread-2 -> execute task
+			Executing task 27
+	Thread-6 -> tasks to execute 67
+		Thread-6 -> execute task
+	Thread-4 -> tasks to execute 67
+			Executing task 28
+		Thread-4 -> execute task
+			Executing task 29
+	Thread-8 -> tasks to execute 66
+		Thread-8 -> execute task
+			Executing task 30
+Pool is already shutdown
+Waiting tasks is down...
+	Thread-7 -> tasks to execute 70
+		Thread-7 -> execute task
+			Executing task 31
+	Thread-9 -> tasks to execute 69
+		Thread-9 -> execute task
+	Thread-5 -> tasks to execute 69
+	Thread-1 -> tasks to execute 69
+	Thread-3 -> tasks to execute 69
+			Executing task 32
+		Thread-3 -> execute task
+			Executing task 33
+		Thread-1 -> execute task
+			Executing task 34
+		Thread-5 -> execute task
+			Executing task 35
+	Thread-0 -> tasks to execute 65
+	Thread-2 -> tasks to execute 65
+		Thread-0 -> execute task
+			Executing task 36
+		Thread-2 -> execute task
+			Executing task 37
+	Thread-6 -> tasks to execute 63
+	Thread-4 -> tasks to execute 63
+		Thread-6 -> execute task
+			Executing task 38
+		Thread-4 -> execute task
+			Executing task 39
+	Thread-8 -> tasks to execute 61
+		Thread-8 -> execute task
+			Executing task 40
+	Thread-7 -> tasks to execute 60
+		Thread-7 -> execute task
+			Executing task 41
+	Thread-1 -> tasks to execute 59
+	Thread-5 -> tasks to execute 59
+	Thread-9 -> tasks to execute 59
+	Thread-3 -> tasks to execute 59
+		Thread-1 -> execute task
+			Executing task 42
+		Thread-3 -> execute task
+			Executing task 43
+		Thread-9 -> execute task
+			Executing task 44
+		Thread-5 -> execute task
+			Executing task 45
+	Thread-0 -> tasks to execute 55
+		Thread-0 -> execute task
+	Thread-2 -> tasks to execute 55
+			Executing task 46
+		Thread-2 -> execute task
+			Executing task 47
+	Thread-4 -> tasks to execute 53
+	Thread-6 -> tasks to execute 53
+		Thread-4 -> execute task
+			Executing task 48
+		Thread-6 -> execute task
+			Executing task 49
+	Thread-8 -> tasks to execute 51
+		Thread-8 -> execute task
+			Executing task 50
+	Thread-7 -> tasks to execute 50
+		Thread-7 -> execute task
+			Executing task 51
+	Thread-5 -> tasks to execute 49
+	Thread-1 -> tasks to execute 49
+	Thread-3 -> tasks to execute 49
+	Thread-9 -> tasks to execute 49
+		Thread-5 -> execute task
+			Executing task 52
+		Thread-9 -> execute task
+			Executing task 53
+		Thread-3 -> execute task
+			Executing task 54
+		Thread-1 -> execute task
+			Executing task 55
+	Thread-2 -> tasks to execute 45
+		Thread-2 -> execute task
+	Thread-0 -> tasks to execute 45
+			Executing task 56
+		Thread-0 -> execute task
+			Executing task 57
+	Thread-4 -> tasks to execute 43
+		Thread-4 -> execute task
+	Thread-6 -> tasks to execute 43
+			Executing task 58
+		Thread-6 -> execute task
+			Executing task 59
+	Thread-8 -> tasks to execute 41
+		Thread-8 -> execute task
+			Executing task 60
+	Thread-7 -> tasks to execute 40
+		Thread-7 -> execute task
+			Executing task 61
+	Thread-9 -> tasks to execute 39
+	Thread-1 -> tasks to execute 39
+	Thread-3 -> tasks to execute 39
+	Thread-5 -> tasks to execute 39
+		Thread-9 -> execute task
+			Executing task 62
+		Thread-5 -> execute task
+			Executing task 63
+		Thread-3 -> execute task
+			Executing task 64
+		Thread-1 -> execute task
+			Executing task 65
+	Thread-2 -> tasks to execute 35
+	Thread-0 -> tasks to execute 35
+		Thread-2 -> execute task
+			Executing task 66
+		Thread-0 -> execute task
+			Executing task 67
+	Thread-4 -> tasks to execute 33
+		Thread-4 -> execute task
+	Thread-6 -> tasks to execute 33
+			Executing task 68
+		Thread-6 -> execute task
+			Executing task 69
+	Thread-8 -> tasks to execute 31
+		Thread-8 -> execute task
+			Executing task 70
+	Thread-7 -> tasks to execute 30
+		Thread-7 -> execute task
+			Executing task 71
+	Thread-1 -> tasks to execute 29
+	Thread-5 -> tasks to execute 29
+	Thread-3 -> tasks to execute 29
+	Thread-9 -> tasks to execute 29
+		Thread-1 -> execute task
+			Executing task 72
+		Thread-9 -> execute task
+			Executing task 73
+		Thread-3 -> execute task
+			Executing task 74
+		Thread-5 -> execute task
+			Executing task 75
+	Thread-0 -> tasks to execute 25
+		Thread-0 -> execute task
+	Thread-2 -> tasks to execute 25
+			Executing task 76
+		Thread-2 -> execute task
+			Executing task 77
+	Thread-6 -> tasks to execute 23
+		Thread-6 -> execute task
+	Thread-4 -> tasks to execute 23
+			Executing task 78
+		Thread-4 -> execute task
+			Executing task 79
+	Thread-8 -> tasks to execute 21
+		Thread-8 -> execute task
+			Executing task 80
+	Thread-7 -> tasks to execute 20
+		Thread-7 -> execute task
+			Executing task 81
+	Thread-9 -> tasks to execute 19
+	Thread-1 -> tasks to execute 19
+	Thread-3 -> tasks to execute 19
+	Thread-5 -> tasks to execute 19
+		Thread-9 -> execute task
+			Executing task 82
+		Thread-5 -> execute task
+			Executing task 83
+		Thread-3 -> execute task
+			Executing task 84
+		Thread-1 -> execute task
+			Executing task 85
+	Thread-0 -> tasks to execute 15
+		Thread-0 -> execute task
+	Thread-2 -> tasks to execute 15
+			Executing task 86
+		Thread-2 -> execute task
+			Executing task 87
+	Thread-6 -> tasks to execute 13
+		Thread-6 -> execute task
+	Thread-4 -> tasks to execute 13
+			Executing task 88
+		Thread-4 -> execute task
+			Executing task 89
+	Thread-8 -> tasks to execute 11
+		Thread-8 -> execute task
+			Executing task 90
+	Thread-7 -> tasks to execute 10
+		Thread-7 -> execute task
+			Executing task 91
+	Thread-3 -> tasks to execute 9
+	Thread-1 -> tasks to execute 9
+		Thread-3 -> execute task
+			Executing task 92
+		Thread-1 -> execute task
+			Executing task 93
+	Thread-9 -> tasks to execute 7
+		Thread-9 -> execute task
+	Thread-5 -> tasks to execute 7
+			Executing task 94
+		Thread-5 -> execute task
+			Executing task 95
+	Thread-0 -> tasks to execute 5
+	Thread-2 -> tasks to execute 5
+		Thread-0 -> execute task
+			Executing task 96
+		Thread-2 -> execute task
+			Executing task 97
+	Thread-6 -> tasks to execute 3
+		Thread-6 -> execute task
+	Thread-4 -> tasks to execute 3
+			Executing task 98
+		Thread-4 -> execute task
+			Executing task 99
+	Thread-8 -> tasks to execute 1
+		Thread-8 -> execute task
+			Executing task 100
+Executig time is, ms: 3658
+
+Process finished with exit code 0
