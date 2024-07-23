@@ -2,11 +2,11 @@ package tech.inno.service;
 
 import org.springframework.stereotype.Service;
 import tech.inno.dao.Dao;
-import tech.inno.user.User;
+import tech.inno.dto.UserDto;
+import tech.inno.data.User;
 
 import java.sql.SQLException;
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class UserService {
@@ -20,13 +20,15 @@ public class UserService {
         return userDao.getAll();
     }
 
-    public Optional<User> fetchUserById(Long id) throws SQLException {
-        return userDao.getById(id);
+    public UserDto fetchUserById(Long id) throws SQLException {
+        User user = userDao.getById(id).get();
+        return new UserDto(user.getId(), user.getUsername());
     }
 
     public void addUser(User user) throws SQLException {
         userDao.insert(user);
     }
+
     public void deleteUser(User user) throws SQLException {
         userDao.delete(user);
     }
