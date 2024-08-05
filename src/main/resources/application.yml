@@ -1,0 +1,15 @@
+server:
+  servlet:
+    context-path: "/products"
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:postgresql://tst-zabbix005:5432/feoktistov_v
+    driver-class-name: org.postgresql.Driver
+    username: orts
+    password: orts
+  jpa:
+    database: postgresql
+    show-sql: true
+    hibernate:
+      ddl-auto: update
