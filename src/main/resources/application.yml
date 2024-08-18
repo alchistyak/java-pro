@@ -1,0 +1,22 @@
+server:
+  servlet:
+    context-path: "/limits"
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:postgresql://tst-zabbix005:5432/feoktistov_v
+    driver-class-name: org.postgresql.Driver
+    username: orts
+    password: orts
+  jpa:
+    database: postgresql
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+app:
+  def:
+    limit-payment-properties:
+      default-limit: 10000
+      min-user-id: 1
+      max-user-id: 100
